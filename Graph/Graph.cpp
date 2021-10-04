@@ -79,7 +79,7 @@ bool Graph_Establish(Graph*& x)
 		{
 			if (x->edge1[j][k] == INF)
 			{
-				printf("  ¡Þ");
+				printf("  Â¡Ãž");
 			}
 			else
 			{
@@ -95,7 +95,7 @@ bool Graph_Establish(Graph*& x)
 		{
 			if (x->edge2[j][k] == INF)
 			{
-				printf("  ¡Þ");
+				printf("  Â¡Ãž");
 			}
 			else
 			{
