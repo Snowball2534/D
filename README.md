@@ -1,5 +1,5 @@
 ### Data Structure
-Completed time: March, 2020
+Completed time: March, 2020  
 Language: C
   
 1.  Contact Management System /contactsLinkedList.cpp/  
@@ -20,4 +20,4 @@ Language: C
     store the graph.  
     There are two implementation methods of Dijkstra's algorithm: using the priority queue or the usual array. Two implementation methods are
     included. (3. priority queue) is called to implement this.
-    All .cpp files are connected by .head files. You can directly run main.cpp file to test the project.
+    All .cpp files are connected by .h files. You can directly run main.cpp file to test the project.
