@@ -20,4 +20,4 @@ Language: C
     store the graph.  
     There are two implementation methods of Dijkstra's algorithm: using the priority queue or the usual array. Two implementation methods are
     included. (3. priority queue) is called to implement this.
-    All the .cpp files are connected by .head files. You can directly call 
+    All .cpp files are connected by .head files. You can directly run main.cpp file to test the project.
