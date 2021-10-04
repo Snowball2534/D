@@ -6,4 +6,4 @@ Language: C
     The system implements the linked list structure to achieve the functions of inserting, querying, deleting, updating, and outputting.
     Key is unique in the system to accommodate the querying operation.
 2.  Josephus Problem /JosephusProblem/ 
-    Implement Josephus Problem using two storage methods: 1) sequential storage 2) 
+    Implement Josephus Problem using two storage methods: 1) sequential storage structure 2) linked storage structure 
